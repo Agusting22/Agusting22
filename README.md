@@ -17,7 +17,7 @@
   <!-- Backend / Bases de datos -->
   <h3>Backend / Bases de datos</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=py,nodejs,express,django,flask,postgres,mysql,mongodb,firebase&perline=14" />
+    <img src="https://skillicons.dev/icons?i=py,django,flask,nodejs,express,postgres,mysql,mongodb,firebase&perline=14" />
   </p>
 
   <!-- Herramientas / Otros -->
