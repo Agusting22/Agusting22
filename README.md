@@ -4,6 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=25&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Desarrollador+de+Software%0AEspecializado+en+Web+Full+Stack%0AFuturo+Licenciado+en+Sistemas&colors=%2318A999,%23007BFF,%234B0082">
 </a>
 
+
 </p>
 
 
