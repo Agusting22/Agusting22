@@ -23,9 +23,9 @@
   
   <!-- Frontend -->
   <h3>Frontend</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,materialui,figma,pug,bootstrap&perline=14" />
-  </p>
+ <marquee behavior="scroll" direction="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,materialui,figma,pug,bootstrap&perline=14" />
+</marquee>
 
   <!-- Backend / Bases de datos -->
   <h3>Backend / Bases de datos</h3>
