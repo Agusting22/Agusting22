@@ -38,3 +38,5 @@
     <img src="https://skillicons.dev/icons?i=postman,git,github,vscode,linux,bash,npm,vite,vercel,netlify,discord&perline=14" />
   </p>
 </div>
+
+<h3>Actualmente estoy trabajando en BairesGeeks <img src="/imgs/logo.png> </h3>
