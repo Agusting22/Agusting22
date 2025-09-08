@@ -13,5 +13,4 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,materialui,figma,canva,pug,bootstrap,framer,py,nodejs,express,django,flask,postgres,mysql,mongodb,sqlserver,firebase,jwt,npm,vite,postman,git,github,vscode,linux,bash,vercel,netlify,discord&perline=14" />  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,materialui,figma,pug,bootstrap,py,nodejs,express,django,flask,postgres,mysql,mongodb,firebase,npm,vite,postman,git,github,vscode,linux,bash,vercel,netlify,discord&perline=14" /></p>
