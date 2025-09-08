@@ -17,13 +17,13 @@
   <!-- Backend / Bases de datos -->
   <h3>Backend / Bases de datos</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=py,nodejs,express,django,flask,postgres,mysql,mongodb,firebase,npm,vite&perline=14" />
+    <img src="https://skillicons.dev/icons?i=py,nodejs,express,django,flask,postgres,mysql,mongodb,firebase&perline=14" />
   </p>
 
   <!-- Herramientas / Otros -->
   <h3>Herramientas / Otros</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=postman,git,github,vscode,linux,bash,vercel,netlify,discord&perline=14" />
+    <img src="https://skillicons.dev/icons?i=postman,git,github,vscode,linux,bash,npm,vite,vercel,netlify,discord&perline=14" />
   </p>
 </div>
 
