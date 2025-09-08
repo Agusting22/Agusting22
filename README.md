@@ -39,4 +39,4 @@
   </p>
 </div>
 
-<h3>Actualmente estoy trabajando en BairesGeeks <img src="/imgs/logo.png> </h3>
+<h3>Actualmente estoy trabajando en BairesGeeks <img src="/logo.png> </h3>
