@@ -1,17 +1,19 @@
 <h1 align="center">Hola, soy Agustin Gonzalez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center">
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Time+New+Roman&size=25&duration=3500&pause=500&color=007BFF&center=true&vCenter=true&width=800&lines=Desarrollador+de+Software;Especializado+en+Web+Full+Stack;Futuro+Licenciado+en+Sistemas" alt="Typing SVG" />
-</a>
-</p>
+<!-- Contenedor flex para typing SVG y GIF decorativo -->
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
 
-<!-- GIF decorativo a la derecha -->
-<p align="center">
-  <picture>
-    <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
-  </picture>
-</p>
+  <!-- Typing SVG -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Time+New+Roman&size=25&duration=3500&pause=500&color=007BFF&center=true&vCenter=true&width=600&lines=Desarrollador+de+Software;Especializado+en+Web+Full+Stack;Futuro+Licenciado+en+Sistemas" alt="Typing SVG" />
+  </a>
+
+  <!-- GIF decorativo -->
+  <div>
+    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px" />
+  </div>
+
+</div>
 
 <br><br>
 
