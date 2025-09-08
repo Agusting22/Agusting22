@@ -5,12 +5,25 @@
 
 
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologias que conozco👨🏻‍💻</h2></summary>
-  </ul>
+<div id="user-content-toc" align="center">
+  <h2>Tecnologías que conozco 👨🏻‍💻</h2>
+  
+  <!-- Frontend -->
+  <h3>Frontend</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,materialui,figma,pug,bootstrap&perline=14" />
+  </p>
+
+  <!-- Backend / Bases de datos -->
+  <h3>Backend / Bases de datos</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=py,nodejs,express,django,flask,postgres,mysql,mongodb,firebase,npm,vite&perline=14" />
+  </p>
+
+  <!-- Herramientas / Otros -->
+  <h3>Herramientas / Otros</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=postman,git,github,vscode,linux,bash,vercel,netlify,discord&perline=14" />
+  </p>
 </div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,materialui,figma,pug,bootstrap,py,nodejs,express,django,flask,postgres,mysql,mongodb,firebase,npm,vite,postman,git,github,vscode,linux,bash,vercel,netlify,discord&perline=14" /></p>
+
