@@ -6,11 +6,8 @@
 </a>
 </p>
 
-<!-- GIFs decorativos -->
+<!-- GIF decorativo a la derecha -->
 <p align="center">
-  <picture>
-    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px">
-  </picture> About me
   <picture>
     <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
   </picture>
@@ -39,27 +36,3 @@
     <img src="https://skillicons.dev/icons?i=postman,git,github,vscode,linux,bash,npm,vite,vercel,netlify,discord&perline=14" />
   </p>
 </div>
-
-<!-- GitHub Stats -->
-<h3 align="center">My GitHub Stats</h3>
-
-<p>
-  <!-- Lenguajes más usados -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AgustinGonzalez&show_icons=true&theme=dark&locale=en&layout=compact" alt="AgustinGonzalez" />
-</p>
-
-<br><br><br><br>
-
-<p>
-  <!-- Stats generales -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=AgustinGonzalez&show_icons=true&theme=dark&locale=en" alt="AgustinGonzalez" />
-</p>
-
-<br><br><br><br>
-
-<p>
-  <!-- Streak -->
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AgustinGonzalez&theme=dark" alt="AgustinGonzalez" />
-</p>
-
-<hr width="60%">
