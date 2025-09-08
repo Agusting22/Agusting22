@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Agustin Gonzalez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+de+Software;Especializado+en+Web+Full+Stack;Futuro+Licenciado+en+Sistemas&colors=%23C8BE25,%23FF5733,%2318A999">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+de+Software;Especializado+en+Web+Full+Stack;Futuro+Licenciado+en+Sistemas&colors=%2318A999,%23007BFF,%234B0082">
 </a></p>
 
 
