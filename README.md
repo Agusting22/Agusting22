@@ -23,7 +23,7 @@
   <!-- Frontend -->
   <h3>Frontend</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,materialui,figma,pug,bootstrap&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,redux,tailwind,materialui,figma,pug,bootstrap&perline=14" />
   </p>
 
   <!-- Backend / Bases de datos -->
