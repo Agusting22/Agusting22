@@ -35,6 +35,6 @@
   <!-- Herramientas / Otros -->
   <h3>Herramientas / Otros</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=postman,hoppscotch,git,github,vscode,linux,bash,npm,vite,vercel,netlify,discord&perline=14" />
+    <img src="https://skillicons.dev/icons?i=postman,git,github,vscode,linux,bash,npm,vite,vercel,netlify,discord&perline=14" />
   </p>
 </div>
