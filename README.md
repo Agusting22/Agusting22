@@ -29,12 +29,12 @@
   <!-- Backend / Bases de datos -->
   <h3>Backend / Bases de datos</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=typescript,nest,supabase,prisma,py,django,flask,nodejs,express,postgres,mysql,mongodb,claude,firebase&perline=14" />
+    <img src="https://skillicons.dev/icons?i=typescript,express,nodejs,nest,py,django,flask,supabase,prisma,postgres,mysql,mongodb,firebase&perline=14" />
   </p>
 
   <!-- Herramientas / Otros -->
   <h3>Herramientas / Otros</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=postman,git,github,vscode,linux,bash,npm,vite,vercel,netlify,discord&perline=14" />
+    <img src="https://skillicons.dev/icons?i=postman,git,github,vscode,cursor,antigravity,linux,bash,npm,vite,vercel,netlify,discord&perline=14" />
   </p>
 </div>
