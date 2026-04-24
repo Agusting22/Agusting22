@@ -23,13 +23,13 @@
   <!-- Frontend -->
   <h3>Frontend</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,redux,tailwind,materialui,figma,pug,bootstrap&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,redux,angular,tailwind,materialui,figma,pug,bootstrap&perline=14" />
   </p>
 
   <!-- Backend / Bases de datos -->
   <h3>Backend / Bases de datos</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=py,django,flask,nodejs,express,postgres,mysql,mongodb,firebase&perline=14" />
+    <img src="https://skillicons.dev/icons?i=typescript,nest,supabase,prismaORM,py,django,flask,nodejs,express,postgres,mysql,mongodb,firebase&perline=14" />
   </p>
 
   <!-- Herramientas / Otros -->
