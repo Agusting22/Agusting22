@@ -29,7 +29,7 @@
   <!-- Backend / Bases de datos -->
   <h3>Backend / Bases de datos</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=typescript,express,nodejs,nest,py,django,flask,java,springboot,supabase,prisma,postgres,mysql,mongodb,firebase&perline=14" />
+    <img src="https://skillicons.dev/icons?i=typescript,express,nodejs,nest,py,django,flask,java,supabase,prisma,postgres,mysql,mongodb,firebase&perline=14" />
   </p>
 
   <!-- Herramientas / Otros -->
